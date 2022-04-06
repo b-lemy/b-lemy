@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=b-lemy&style=flat-square&color=blue" alt=""/>
+<img src="https://github.com/?username=b-lemy&style=flat-square&color=blue" alt=""/>
 </div>
 <!--
 **b-lemy/b-lemy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
