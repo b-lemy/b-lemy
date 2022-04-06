@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=brian.lema&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=b-lemy&style=flat-square&color=blue" alt=""/>
 </div>
 
 <div align="center">
@@ -61,7 +61,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats) -->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brian.lema&layout=compact&theme=vision-friendly-dark) 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-lemy&layout=compact&theme=vision-friendly-dark) 
 
 ---
 
