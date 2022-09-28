@@ -16,10 +16,7 @@
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brian-lema-3b731920b/)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-lemy)](https://github.com/anuraghazra/github-readme-stats)
----
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-lemy&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :writing_hand: Blog Posts :
  .Projects done https://tikunet-6fedc.web.app/
