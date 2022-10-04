@@ -18,7 +18,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-lemy&langs_count=10&theme=#000000)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=b-lemy)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### :writing_hand: Blog Posts :
  .Projects done https://tikunet-6fedc.web.app/
