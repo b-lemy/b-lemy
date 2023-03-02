@@ -33,7 +33,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Jipime Fasta V1
+- 🔭 I’m currently working on
+```
+Jipime Fasta V1
+```
 <!--     - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
